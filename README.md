@@ -1,4 +1,4 @@
-# Fourier Draw
+# DesenhoFourier
 
 Converte qualquer imagem em uma animação usando Série de Fourier. O resultado é uma bela visualização de epicíclos (círculos em rotação) que desenham o contorno da imagem.
 
@@ -18,8 +18,8 @@ A transformada de Fourier decompõe o contorno de uma imagem em uma soma de onda
 ## Instalação
 
 ```bash
-git clone https://github.com/staghado/fourier-draw.git
-cd fourier-draw
+git clone https://github.com/bernardovieirarocha/desenhoFourier.git
+cd desenhoFourier
 
 python3 -m venv venv
 source venv/bin/activate
